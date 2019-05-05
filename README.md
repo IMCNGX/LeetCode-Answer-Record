@@ -1,2 +1,2 @@
-# leetcode-
-记录leetcode的一些题和解答。
+# LeetCode-Answer-Record
+记录LeetCode的一些题目的解答。
